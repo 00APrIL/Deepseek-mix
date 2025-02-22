@@ -1,0 +1,7 @@
+{
+  "name": "ai-chat-proxy",
+  "version": "1.0.0",
+  "dependencies": {
+    "@hono/node-server": "^1.0.0"
+  }
+}
