@@ -8,7 +8,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@hono/node-server": "^1.0.0",
-    "next": "^13.0.0"
+    "next": "^14.0.0"
   }
 }
